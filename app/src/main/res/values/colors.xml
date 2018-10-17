@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">@color/navyBlue</color>
+    <color name="colorAccent">@color/mimosa</color>
+    <color name="gunMetalGrey">#2c3539</color>
+    <color name="mimosa">#FCC931</color>
+    <color name="navyBlue">#011627</color>
+    <color name="red">#e71d36</color>
+    <color name="yellow">#ff9f1c</color>
+    <color name="teal">#2ec4b6</color>
+</resources>

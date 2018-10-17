@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "570327547520",
+    "firebase_url": "https://engimachat.firebaseio.com",
+    "project_id": "engimachat",
+    "storage_bucket": "engimachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570327547520:android:a31fef3f6d8d11d7",
+        "android_client_info": {
+          "package_name": "app.clairvoyant.engimachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570327547520-tfs48u3n4qo95t1j6i63d240njtjg5op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.clairvoyant.engimachat",
+            "certificate_hash": "67b860cfce5c86fe96708484d89c659943a6d139"
+          }
+        },
+        {
+          "client_id": "570327547520-9m013eur7duov3k49e3fl1j69csqtnst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUBjV0U1ltOsChHuQaqrtpE33OJEp990"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570327547520-9m013eur7duov3k49e3fl1j69csqtnst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
